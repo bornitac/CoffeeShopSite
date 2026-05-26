@@ -1,6 +1,6 @@
 # Bornita's Coffee Shop
 
-A responsive coffee shop website with a product catalog and shopping cart built using HTML, CSS, and vanilla JavaScript.
+A responsive coffee shop website with a product catalog and shopping cart built using HTML, CSS, and JavaScript.
 
 ---
 
