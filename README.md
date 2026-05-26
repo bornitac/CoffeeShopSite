@@ -4,7 +4,7 @@ A responsive coffee shop website with a product catalog and shopping cart built 
 
 ---
 
-## What It Does
+## 🔍 What It Does
 
 - Displays a product catalog of 6 coffee items with images and prices
 - Allows users to add items to a shopping cart with a single click
@@ -15,7 +15,7 @@ A responsive coffee shop website with a product catalog and shopping cart built 
 
 ---
 
-## Built With
+## 🛠️ Built With
 
 - **HTML5** – page structure and layout
 - **CSS3** – styling, CSS Grid, and Media Queries for responsiveness
@@ -23,7 +23,7 @@ A responsive coffee shop website with a product catalog and shopping cart built 
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Option 1 – Open directly in browser
 Just open `index.html` in your browser — no setup needed.
@@ -37,7 +37,7 @@ Then open `http://localhost:8080` in your browser.
 
 ---
 
-## Features
+## 📋 Features
 
 - CSS Grid product layout that adapts to screen size
 - Real-time cart updates without page reload
