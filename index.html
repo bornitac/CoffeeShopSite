@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>The Coffee Shop</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script type="module" defer src="script.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1>Bornita's Coffee Shop</h1>
+      <p>The best shop for all coffee things</p>
+    </header>
+
+    <main class="container">
+      <section id="products">
+        <h2>The Products</h2>
+        <div class="products-grid"></div>
+      </section>
+
+      <section id="cart">
+        <h2>Your Cart</h2>
+        <div class="cart-container">
+          <div id="cart-rows" class="cart-rows">
+            <div class="cart-row header">
+              <div class="col item">ITEM</div>
+              <div class="col price">PRICE</div>
+              <div class="col qty">QTY</div>
+              <div class="col subtotal">SUBTOTAL</div>
+              <div class="col actions"></div>
+            </div>
+          </div>
+
+          <div class="cart-summary">
+            <h3>Summary</h3>
+            <p id="cart-count">0 items in cart</p>
+            <p id="cart-total">Total: $0.00</p>
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
