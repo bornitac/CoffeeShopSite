@@ -35,7 +35,7 @@ const products = [
     name: 'Coffee Beans Bag',
     price: 14.99,
     image:
-      'https://www.amazon.com/Chamberlain-Coffee-Fancy-Mouse-Espresso/dp/B09H8NMR2V',
+      'https://images.unsplash.com/photo-1559056199-641a0ac8b55e?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 6,
