@@ -35,7 +35,7 @@ const products = [
     name: 'Coffee Beans Bag',
     price: 14.99,
     image:
-      'https://brewavenue.com/cdn/shop/products/Colombian_Supremo_Whole_BEan_Mockup.png?v=1568836551',
+      'https://www.amazon.com/Chamberlain-Coffee-Fancy-Mouse-Espresso/dp/B09H8NMR2V',
   },
   {
     id: 6,
