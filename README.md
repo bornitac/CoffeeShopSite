@@ -2,7 +2,7 @@
 
 A responsive coffee shop website with a product catalog and shopping cart.
 
-🌐 **Live site:** https://bornita-coffee-shop.vercel.app
+**Live site:** https://bornita-coffee-shop.vercel.app
 
 ## Built With
 - HTML5, CSS3, JavaScript
